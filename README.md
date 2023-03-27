@@ -3,7 +3,7 @@
   <a href="https://github.io/hemenduroy" target="_blank">github.io/hemenduroy</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme-img.png" />
 </div>
 
 <br/>
@@ -14,16 +14,16 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/beebus/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/beebus/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/hemenduroy/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/hemenduroy/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/beebus/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/hemenduroy/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/beebus/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/hemenduroy/Portfolio/issues">Request Feature</a>
 </h3>
 
 Welcome to my portfolio website, <a href="https://github.io/hemenduroy" target="_blank">github.io/hemenduroy</a>, where I can showcase my software development projects, tell you more about myself, and what I am looking for. Last but not least, this is where you can take a look at my resume, my LinkedIn and other profiles, and ways to contact me.<br/>
