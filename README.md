@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v1.0.0<br/>
-  <a href="https://github.io/hemenduroy" target="_blank">github.io/hemenduroy</a>
+  <a href="https://hemenduroy.github.io" target="_blank">hemenduroy.github.io</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
