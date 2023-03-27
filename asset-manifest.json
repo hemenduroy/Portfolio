@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portoflio/static/css/main.cbc3271a.css",
+    "main.js": "/Portoflio/static/js/main.91d51824.js",
+    "static/js/377.b701d775.chunk.js": "/Portoflio/static/js/377.b701d775.chunk.js",
+    "static/media/home-bg.jpg": "/Portoflio/static/media/home-bg.0b32f4f44105fcd109f3.jpg",
+    "static/media/Facial_Recognition.png": "/Portoflio/static/media/Facial_Recognition.52171a5f1594f59d53c2.png",
+    "static/media/BrainNet.png": "/Portoflio/static/media/BrainNet.5ecc3ce64a8702663736.png",
+    "static/media/Smart_Home_Gesture_Recognition.png": "/Portoflio/static/media/Smart_Home_Gesture_Recognition.a358a4c9d6143e4661fc.png",
+    "static/media/avatar.jpg": "/Portoflio/static/media/avatar.6c15f07d34b84673d4fd.jpg",
+    "static/media/about.png": "/Portoflio/static/media/about.fe779e5a308eabc3c1b3.png",
+    "static/media/home-main.svg": "/Portoflio/static/media/home-main.0dd579b763b1ea6f5f1c9c4af9286fc3.svg",
+    "static/media/resume.pdf": "/Portoflio/static/media/resume.cd520d039fb7d3793e1e.pdf",
+    "static/media/pre.svg": "/Portoflio/static/media/pre.2fe41799236dc5674839.svg",
+    "index.html": "/Portoflio/index.html",
+    "main.cbc3271a.css.map": "/Portoflio/static/css/main.cbc3271a.css.map",
+    "main.91d51824.js.map": "/Portoflio/static/js/main.91d51824.js.map",
+    "377.b701d775.chunk.js.map": "/Portoflio/static/js/377.b701d775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbc3271a.css",
+    "static/js/main.91d51824.js"
+  ]
+}
