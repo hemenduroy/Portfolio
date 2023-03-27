@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -16,27 +16,27 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              Let Me <span className="purple"> Introduce </span> Myself
+              Let Me <span className="red"> Introduce </span> Myself
             </h1>
             <p className="home-about-body">
-              Since I was a kid, I have loved and excelled in programming, mathematics, natural sciences, data analysis, electronics, and problem solving.
+              Since I was a kid, I have loved and excelled in programming, mathematics, natural sciences, data analysis, and problem solving.
               <br />
               <br />I am experienced in programming languages including
               <i>
-                <b className="purple"> Java, Python, C++, JavaScript</b>
+                <b className="red"> Java, Python, C++, JavaScript</b>
               </i>
               , and SQL dialects including
               <i>
-                <b className="purple"> SQL Server, Oracle PL/SQL, PostgreSQL, and MySQL</b>.
+                <b className="red"> SQL Server, Oracle PL/SQL, PostgreSQL, and MySQL</b>.
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">...placeholder </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  ....placeholder
+                <b className="red">applications </b> that
+                combine seemingly unrelated usecases to generate novel{" "}
+                <b className="red">
+                  insights.
                 </b>
               </i>
               <br />
@@ -44,11 +44,11 @@ function Home2() {
               Whenever possible, I also apply my passion for developing products
               with
               <i>
-                <b className="purple"> modern Javascript frameworks</b>
+                <b className="red"> modern technologies</b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> Node.js and React.js</b>
+                <b className="red"> Python and as of late, the ChatGPT API.</b>
               </i>
             </p>
           </Col>
@@ -62,12 +62,12 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>Find Me On</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Feel free to <span className="red">connect </span>with me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/beebus"
+                  href="https://github.com/hemenduroy"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/michael-beebower/"
+                  href="https://www.linkedin.com/in/hemendu-roy/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
