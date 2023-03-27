@@ -26,7 +26,7 @@
     <a href="https://github.com/hemenduroy/Portfolio/issues">Request Feature</a>
 </h3>
 
-Welcome to my portfolio website, <a href="https://github.io/hemenduroy" target="_blank">github.io/hemenduroy</a>, where I can showcase my software development projects, tell you more about myself, and what I am looking for. Last but not least, this is where you can take a look at my resume, my LinkedIn and other profiles, and ways to contact me.<br/>
+Welcome to my portfolio website, <a href="https://hemenduroy.github.io" target="_blank">hemenduroy.github.io</a>, where I can showcase my software development projects, tell you more about myself, and what I am looking for. Last but not least, this is where you can take a look at my resume, my LinkedIn and other profiles, and ways to contact me.<br/>
 
 ## Built With
 
